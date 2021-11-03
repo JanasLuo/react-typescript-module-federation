@@ -1,3 +1,11 @@
+/*
+ * @Author: janasluo
+ * @Date: 2021-10-15 16:40:34
+ * @LastEditTime: 2021-10-22 09:37:21
+ * @LastEditors: janasluo
+ * @Description: 
+ * @FilePath: /digital_police/Users/janas/work/project/react-test/ModuleFederation/react-typescript-module-federation/app1/webpack.config.js
+ */
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const { ModuleFederationPlugin } = require('webpack').container;
 const path = require('path');
